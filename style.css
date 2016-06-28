@@ -31,7 +31,8 @@ img{display:block;}
 }
 #middle .item #img{
     overflow: hidden;
+    width:100%;
 }
-#middle .item #img{
+#middle .item #img img{
     width:100%;
 }
