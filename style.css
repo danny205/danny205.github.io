@@ -11,13 +11,13 @@ body{
 }
 #top{
     overflow: hidden;
+    text-align:center;
 }
 #top #image{
      width:200px;
      height:200px;
      border-radius:50%;
      background:#282828;
-     margin:0px auto 0px auto;
  }
 #top #image img{
    border:1px solid #d5d5d5;
