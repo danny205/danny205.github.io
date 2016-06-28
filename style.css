@@ -4,7 +4,14 @@ body{
 #container{
     max-width:700px;
     margin:0px auto 0px auto;
-    background:#000;
+    background:blueviolet;
     overflow:hidden;
     padding:100px 0px 100px 0px;
+}
+#top{
+    overflow: hidden;
+}
+#top #image{
+    border-radius:50%;
+    background:#282828;
 }
