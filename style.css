@@ -1,20 +1,29 @@
 body{
-
+    background:#f5f5f5;
 }
 #container{
     max-width:700px;
     margin:0px auto 0px auto;
-    background:blueviolet;
+    background:#fff;
     overflow:hidden;
     padding:100px 0px 100px 0px;
+    text-align:center;
 }
 #top{
     overflow: hidden;
 }
 #top #image{
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    background:#282828;
-    margin:0px auto 0px auto;
+     width:200px;
+     height:200px;
+     border-radius:50%;
+     background:#282828;
+     margin:0px auto 0px auto;
+ }
+#top #image img{
+   border:1px solid #d5d5d5;
+}
+#middle .item{
+    background:#fff;
+    border:1px solid #d5d5d5;
+    norder-radius:3px;
 }
