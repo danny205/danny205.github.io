@@ -14,14 +14,15 @@ body{
     text-align:center;
 }
 #top #image{
-     width:200px;
-     height:200px;
-     border-radius:50%;
-     background:#282828;
-     margin:0px auto 0px auto;
+   overflow:hidden;
  }
 #top #image img{
    border:1px solid #d5d5d5;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    background:#282828;
+    margin:0px auto 0px auto;
 }
 #middle .item{
     background:#fff;
