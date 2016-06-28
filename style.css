@@ -12,6 +12,9 @@ body{
     overflow: hidden;
 }
 #top #image{
+    width:200px;
+    height:200px;
     border-radius:50%;
     background:#282828;
+    margin:0px auto 0px auto;
 }
